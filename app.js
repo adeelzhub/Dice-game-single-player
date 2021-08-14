@@ -4,6 +4,7 @@ const win_loose =document.getElementById("win_loose");
 const hit1 = document.getElementById("hit1");
 
 let total_score = 0;
+let turns = 0;
 
 
 // dice roll - function
